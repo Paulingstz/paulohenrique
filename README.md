@@ -9,11 +9,7 @@
 ## 📸 Momentos em Quadra
 
 <div align="center">
-  <img src="![jogo1](https://github.com/user-attachments/assets/11b3efd4-35a2-495e-b002-6149c30d0746)
-![jogo1](https://github.com/user-attachments/assets/11b3efd4-35a2-495e-b002-6149c30d0746)
-" width="300" />
-  <img src="jogo2.jpg" width="300" />
-  <img src="jogo3.jpg" width="300" />
+  <img src="https://raw.githubusercontent.com/seu_usuario/seu_usuario/main/jogo1.png" width="300" />
 </div>
 
 ---
