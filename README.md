@@ -9,7 +9,7 @@
 ## 📸 Momentos em Quadra
 
 <div align="center">
-  <img src="https://photos.google.com/u/3/photo/AF1QipN2veFdYnX2OyNUXOj1zf-mm5VsSzjvg8SMbbah" width="300" />
+  <img src="perfil.jpg" width="300" />
 </div>
 
 ---
