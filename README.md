@@ -10,8 +10,9 @@
 
 <div align="center">
   <img src="perfil.jpg" width="300" />
+  <img src="perfil2.jpg" width="300" />
+  <img src="jogo3.jpg" width="300" />
 </div>
-
 ---
 
 ## 📬 Contato
