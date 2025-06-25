@@ -9,7 +9,9 @@
 ## 📸 Momentos em Quadra
 
 <div align="center">
-  <img src="blob:https://web.whatsapp.com/61484fa3-ed64-414e-9ba5-acf76b55c5c9.jpg" width="300" />
+  <img src="![jogo1](https://github.com/user-attachments/assets/11b3efd4-35a2-495e-b002-6149c30d0746)
+![jogo1](https://github.com/user-attachments/assets/11b3efd4-35a2-495e-b002-6149c30d0746)
+" width="300" />
   <img src="jogo2.jpg" width="300" />
   <img src="jogo3.jpg" width="300" />
 </div>
