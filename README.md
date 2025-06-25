@@ -9,7 +9,7 @@
 ## 📸 Momentos em Quadra
 
 <div align="center">
-  <img src="[https://raw.githubusercontent.com/seu_usuario/seu_usuario/main/jogo1.png](https://photos.fife.usercontent.google.com/pw/AP1GczM0hEabxMtFzTyrfR8LbYhzTqyVMosNiPKn-6XwqoPRTM9QOZVFIDZjig=w429-h650-s-no-gm?authuser=3)" width="300" />
+  <img src="https://photos.google.com/u/3/photo/AF1QipN2veFdYnX2OyNUXOj1zf-mm5VsSzjvg8SMbbah" width="300" />
 </div>
 
 ---
